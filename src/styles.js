@@ -1,4 +1,4 @@
-import { StyleSheet, Dimensions } from 'react-native'
+import { StyleSheet, Dimensions, Platform } from 'react-native'
 
 export const colors = {
     background: '#000',
@@ -24,8 +24,9 @@ export default StyleSheet.create({
     },
 
     answer: {
-        height: 144,
-        fontSize: 144,
+        // adjustsFontSizeToFit is an iOS only property
+        height: Platform.OS === 'android' ? 44 : 144,
+        fontSize: Platform.OS === 'android' ? 36 : 144,
         color: 'white',
         textAlign: 'right',
         width: '100%',
