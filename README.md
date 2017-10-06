@@ -10,7 +10,7 @@ Making a calculator!
 └── 
 
 ## Folder Structure
-![index](index.js)
+[index](index.js)
 └── ![App](App.js)
     │── ![store](src/store.js)
     │   └── ![reducer](src/reducer.js)
