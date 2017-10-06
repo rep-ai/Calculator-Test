@@ -36,7 +36,11 @@ Making a calculator!
         </dl>
     </dd>
 </dl>
-⋅⋅* └── [App](App.js)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;│── [store](src/store.js)
+<br />
+└── [App](App.js)
     │── [store](src/store.js)
     │   └── [reducer](src/reducer.js)
     └── [Calculator](src/index.js)
