@@ -9,9 +9,8 @@ Getting Started:
 2. Please fix the StatusBar.
 
 ## Frameworks
-1. [react-native](https://facebook.github.io/react-native)
-2. [redux](http://redux.js.org/docs/basics)
-3. [react-redux](https://github.com/reactjs/react-redux)
+1. [React Native](https://facebook.github.io/react-native)
+2. [Redux](http://redux.js.org/docs/basics) & [react-redux](https://github.com/reactjs/react-redux)
 4. [Flow](https://flow.org/)
 5. [Babel](https://babeljs.io/)
 
