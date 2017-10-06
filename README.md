@@ -10,8 +10,11 @@ Making a calculator!
 └── 
 
 ## Folder Structure
-<ul style="list-style-type:none">
+<ul>
     <li><a href="/index.js">index</a></li>
+    <ul>
+        <li><a href="/App.js">└── App</a></li>
+    </ul>
 </ul>
 ⋅⋅* └── [App](App.js)
     │── [store](src/store.js)
