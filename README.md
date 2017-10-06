@@ -10,7 +10,7 @@ Getting Started:
 
 ## Frameworks
 1. [React Native](https://facebook.github.io/react-native)
-2. [Redux](http://redux.js.org/docs/basics) with [react-redux](https://github.com/reactjs/react-redux)
+2. [Redux](http://redux.js.org/docs/basics)
 4. [Flow](https://flow.org/)
 5. [Babel](https://babeljs.io/)
 
