@@ -12,30 +12,30 @@ Making a calculator!
 ## Folder Structure
 
 
-<ul>
-    <li>
+<dl>
+    <dd>
         <a href="/index.js">index</a>
-        <ul>
-            <li>
+        <dl>
+            <dd>
                 <a href="/App.js">└── App</a>
-                <ul>
-                    <li>
+                <dl>
+                    <dd>
                         <a href="/store.js">│── store</a>
-                        <ul>
-                            <li><a href="/reducer.js">│── reducer</a></li>
-                        </ul>
-                    </li>
-                    <li>
+                        <dl>
+                            <dd><a href="/reducer.js">│── reducer</a></dd>
+                        </dl>
+                    </dd>
+                    <dd>
                         <a href="/Calculator.js">│── Calculator</a>
-                        <ul>
-                            <li><a href="/actions.js">│── actions</a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-</ul>
+                        <dl>
+                            <dd><a href="/actions.js">│── actions</a></dd>
+                        </dl>
+                    </dd>
+                </dl>
+            </dd>
+        </dl>
+    </dd>
+</dl>
 ⋅⋅* └── [App](App.js)
     │── [store](src/store.js)
     │   └── [reducer](src/reducer.js)
