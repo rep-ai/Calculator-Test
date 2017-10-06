@@ -9,22 +9,20 @@ Making a calculator!
 2. Please fix the StatusBar.
 
 ## Folder Structure
-
-&nbsp;&nbsp;&nbsp;&nbsp;[│── store](src/store.js)
-<br />
-└── [App](App.js)
-    │── [store](src/store.js)
-    │   └── [reducer](src/reducer.js)
-    └── [Calculator](src/index.js)
-        │── [actions](src/actions.js)
-        │   │── [actionTypes](src/actionTypes.js)
-        │   └── [flowTypes](src/flowTypes.js)
-        │── [flowTypes](src/flowTypes.js)
-        └── [Calculator](src/Calculator.js)
-            │── [styles](src/styles.js)
-            │── [QuestionComponent](src/QuestionComponent.js)
-            │── [AnswerComponent](src/AnswerComponent.js)
-            └── [ButtonComponent](src/ButtonComponent.js)
+[index](index.js)<br />
+└─ [App](App.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;│─ [store](src/store.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└ [reducer](src/reducer.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;└ [Calculator](src/index.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;│─ [actions](src/actions.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;│─ [actionTypes](src/actionTypes.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└ [flowTypes](src/flowTypes.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;│─ [flowTypes](src/flowTypes.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;└ [Calculator](src/Calculator.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│─ [styles](src/styles.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│─ [QuestionComponent](src/QuestionComponent.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│─ [AnswerComponent](src/AnswerComponent.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ [ButtonComponent](src/ButtonComponent.js)<br />
 
 
 ## Example
