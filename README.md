@@ -10,20 +10,20 @@ Making a calculator!
 └── 
 
 ## Folder Structure
-(index)[index.js] 
-└── (App)[App.js]
-    │── (store)[src/store.js]
-    │   └── (reducer)[src/reducer.js]
-    └── (Calculator)[src/index.js]
-        │── (actions)[src/actions.js]
-        │   │── (actionTypes)[src/actionTypes.js]
-        │   └── (flowTypes)[src/flowTypes.js]
-        │── (flowTypes)[src/flowTypes.js]
-        └── (Calculator)[src/Calculator.js]
-            │── (styles)[src/styles.js]
-            │── (QuestionComponent)[src/QuestionComponent.js]
-            │── (AnswerComponent)[src/AnswerComponent.js]
-            └── (ButtonComponent)[src/ButtonComponent.js]
+![index](index.js)
+└── ![App](App.js)
+    │── ![store](src/store.js)
+    │   └── ![reducer](src/reducer.js)
+    └── ![Calculator](src/index.js)
+        │── ![actions](src/actions.js)
+        │   │── ![actionTypes](src/actionTypes.js)
+        │   └── ![flowTypes](src/flowTypes.js)
+        │── ![flowTypes](src/flowTypes.js)
+        └── ![Calculator](src/Calculator.js)
+            │── ![styles](src/styles.js)
+            │── ![QuestionComponent](src/QuestionComponent.js)
+            │── ![AnswerComponent](src/AnswerComponent.js)
+            └── ![ButtonComponent](src/ButtonComponent.js)
 
 
 ## Example
