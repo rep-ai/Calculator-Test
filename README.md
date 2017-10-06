@@ -25,8 +25,24 @@ Making a calculator!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│─ [AnswerComponent](src/AnswerComponent.js)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└ [styles](src/styles.js)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ButtonComponent](src/ButtonComponent.js)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ [styles](src/styles.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ [styles](src/styles.js)<br />
 
+
+## Folder Structure
+
+[index](index.js)<br />
+[App](App.js)<br />
+### ./src
+│─ [store](src/store.js)<br />
+│─ [reducer](src/reducer.js)<br />
+│─ [actions](src/actions.js)<br />
+│─ [actionTypes](src/actionTypes.js)<br />
+│─ [flowTypes](src/flowTypes.js)<br />
+│─ [styles](src/styles.js)<br />
+│─ [ButtonComponent](src/ButtonComponent.js)<br />
+│─ [AnswerComponent](src/AnswerComponent.js)<br />
+│─ [QuestionComponent](src/QuestionComponent.js)<br />
+└&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[index (Calculator)](src/index.js)<br />
 
 ## Example
 ![Example](screenshots/example.jpg?raw=true)
