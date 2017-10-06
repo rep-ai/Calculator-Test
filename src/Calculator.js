@@ -1,6 +1,6 @@
 // @flow
 import React, { PureComponent } from 'react'
-import { View } from 'react-native'
+import { View, StatusBar } from 'react-native'
 
 import styles from './styles'
 import QuestionComponent from './QuestionComponent'
@@ -81,6 +81,11 @@ export default class Calculator extends PureComponent {
 
         return (
             <View style={styles.container}>
+                <StatusBar
+                    backgroundColor="transparent"
+                    barStyle="light-content"
+                />
+                
                 <QuestionComponent question={question} />
                 <AnswerComponent answer={answer} />
 
