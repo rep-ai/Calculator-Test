@@ -41,7 +41,8 @@ Making a calculator!
 │─ [ButtonComponent](src/ButtonComponent.js)<br />
 │─ [AnswerComponent](src/AnswerComponent.js)<br />
 │─ [QuestionComponent](src/QuestionComponent.js)<br />
-└&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[index (Calculator)](src/index.js)<br />
+│─ [Calculator](src/Calculator.js)<br />
+└&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[index](src/index.js)<br />
 
 ## Example
 ![Example](screenshots/example.jpg?raw=true)
