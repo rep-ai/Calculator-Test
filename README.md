@@ -29,10 +29,9 @@ Making a calculator!
 
 
 ## Folder Structure
-
 [index](index.js)<br />
 [App](App.js)<br />
-### ./src
+[./src](src)<br />
 │─ [store](src/store.js)<br />
 │─ [reducer](src/reducer.js)<br />
 │─ [actions](src/actions.js)<br />
