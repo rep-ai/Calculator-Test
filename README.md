@@ -10,8 +10,9 @@ Making a calculator!
 └── 
 
 ## Folder Structure
-<h1>Test</h1>
-* [index](index.js)
+<ul>
+    <li><a href="/index.js">index</a></li>
+</ul>
 ⋅⋅* └── [App](App.js)
     │── [store](src/store.js)
     │   └── [reducer](src/reducer.js)
