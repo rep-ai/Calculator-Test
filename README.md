@@ -10,7 +10,7 @@ Making a calculator!
 └── 
 
 ## Folder Structure
-<ul>
+<ul style="list-style-type:none">
     <li><a href="/index.js">index</a></li>
 </ul>
 ⋅⋅* └── [App](App.js)
