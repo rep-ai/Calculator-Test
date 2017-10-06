@@ -7,38 +7,10 @@ Getting Started:
 Making a calculator!
 1. Add the "Clear" button and it's functionality. It should reset the calculator.
 2. Please fix the StatusBar.
-└── 
 
 ## Folder Structure
 
-
-<dl>
-    <dd>
-        <a href="/index.js">index</a>
-        <dl>
-            <dd>
-                <a href="/App.js">└── App</a>
-                <dl>
-                    <dd>
-                        <a href="/store.js">│── store</a>
-                        <dl>
-                            <dd><a href="/reducer.js">│── reducer</a></dd>
-                        </dl>
-                    </dd>
-                    <dd>
-                        <a href="/Calculator.js">│── Calculator</a>
-                        <dl>
-                            <dd><a href="/actions.js">│── actions</a></dd>
-                        </dl>
-                    </dd>
-                </dl>
-            </dd>
-        </dl>
-    </dd>
-</dl>
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;│── [store](src/store.js)
+&nbsp;&nbsp;&nbsp;&nbsp;<small>│──</small> [store](src/store.js)
 <br />
 └── [App](App.js)
     │── [store](src/store.js)
