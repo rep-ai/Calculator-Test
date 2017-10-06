@@ -4,9 +4,16 @@ Getting Started:
 2. Install the packages: ```npm install``` or ```yarn install```
 3. Start React Native: ```react-native run-ios``` or ```react-native run-android```
 
-Making a calculator!
+## Making a calculator!
 1. Add the "Clear" button and it's functionality. It should reset the calculator.
 2. Please fix the StatusBar.
+
+## Frameworks
+1. [react-native](https://facebook.github.io/react-native)
+2. [redux](http://redux.js.org/docs/basics)
+3. [react-redux](https://github.com/reactjs/react-redux)
+4. [Flow](https://flow.org/)
+5. [Babel](https://babeljs.io/)
 
 ## Import Structure
 [index](index.js)<br />
