@@ -11,8 +11,8 @@ Making a calculator!
 ## Folder Structure
 [index](index.js)<br />
 └ [App](App.js)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;│─ [store](src/store.js)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└ [reducer](src/reducer.js)<br />
+&nbsp;&nbsp;&nbsp;│─ [store](src/store.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└ [reducer](src/reducer.js)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;└ [Calculator](src/index.js)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;│─ [actions](src/actions.js)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;│─ [actionTypes](src/actionTypes.js)<br />
