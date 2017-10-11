@@ -5,8 +5,7 @@ Getting Started:
 3. Start React Native: ```react-native run-ios``` or ```react-native run-android```
 
 ## Making a calculator!
-1. Add the "Clear" button and it's functionality. It should reset the calculator.
-2. Please fix the StatusBar.
+Add the "Clear" button and it's functionality. It should reset the calculator.
 
 ## Frameworks
 1. [React Native](https://facebook.github.io/react-native)
