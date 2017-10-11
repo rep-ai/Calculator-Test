@@ -1,8 +1,9 @@
 # Calculator
 Getting Started:
-1. Clone the repo: ```git clone https://github.com/rep-ai/Calculator-Test.git```
-2. Install the packages: ```npm install``` or ```yarn install```
-3. Start React Native: ```react-native run-ios``` or ```react-native run-android```
+1. Go through *"Building Projects with Native Code"* for your specific platform: [React Native: "Getting Started"](https://facebook.github.io/react-native/docs/getting-started.html)
+2. Clone the repo: ```git clone https://github.com/rep-ai/Calculator-Test.git```
+3. Install the packages: ```npm install``` or ```yarn install```
+4. Start React Native: ```react-native run-ios``` or ```react-native run-android```
 
 ## Making a calculator!
 Add the "Clear" button and it's functionality. It should reset the calculator.
