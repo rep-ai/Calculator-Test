@@ -19,6 +19,8 @@ Getting Started:
 └ [App](App.js)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;│─ [store](src/store.js)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└ [reducer](src/reducer.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;│─ [flowTypes](src/flowTypes.js)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[actionTypes](src/actionTypes.js)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;└&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Calculator (index)](src/index.js)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│─ [flowTypes](src/flowTypes.js)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│─ [actions](src/actions.js)<br />
